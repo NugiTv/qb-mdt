@@ -6,7 +6,7 @@
 - [Orginal MDT](https://github.com/FlawwsX/erp_mdt)
 - [Orginal Dispatch](https://github.com/FlawwsX/erp_dispatch)
 # Preview
-https://cdn.discordapp.com/attachments/893177145680089098/926386104263933992/FiveM_b2372_GTAProcess_sVqIq11qkk.png
+![MDT](https://i.imgur.com/u19sECe.png)
 
 # Discords
 * [My Discord](https://discord.gg/MeBxzrGtyY)
