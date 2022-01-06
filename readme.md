@@ -1,4 +1,18 @@
-Matching Dispatch **Required**: https://github.com/FlawwsX/erp_dispatch
+# QBCore Verison of erp_mdt
 
-Doesn't support ESX/QBcore, yet, someone can make a branch and PR.
-Can also expand on this if you wish, have fun.
+
+* [My Discord](https://discord.gg/MeBxzrGtyY)
+* [QBCore Discord](discord.gg/qbcore)
+* [QBCore Framework](https://github.com/qbcore-framework)
+# Installation
+- Download Resource & Drag into your resources folder
+- Insert the SQL
+- Start your resource
+- Restart your server.
+
+# Credits - Flawws#9999
+
+
+# Orginal Links
+- [erp_mdt](https://github.com/FlawwsX/erp_mdt)
+- [erp_dispatch](https://github.com/FlawwsX/erp_dispatch)
